@@ -1,0 +1,12 @@
+name: final_env
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - ipykernel=6.29.5
+  - scanpy=1.11.1
+  - python-igraph
+  - leidenalg
+  - jupyterlab=4.1.2
+  - celltypist=1.6.2
